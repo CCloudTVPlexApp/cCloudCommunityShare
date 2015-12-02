@@ -1,1 +1,0 @@
-0000;Fox 1 HD;PELÍCULAS-SERIES;Unknown;Unknown;http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?-1332%2F1499-20151020T153535.ts;/:/plugins/com.plexapp.plugins.ccloudtv/resources/icon-series.png?t=1438136725;12/2/2015
