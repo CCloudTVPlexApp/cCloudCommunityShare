@@ -1,1 +1,2 @@
-0000;EL PINGÜINO TV;Movie Channels;CL;Spanish;http://streaming.elpinguino.com:1935/live/pinguinotv_360p/hasbahca.m3u8;http://2.bp.blogspot.com/-vW5-qquXL3g/VQGx0I4JRiI/AAAAAAAADlc/G-4BowOZs-s/s1600/ep.png;2/14/2016
+0000;EL PINGÜINO TV;Movie Channels;CL;Spanish;http://streaming.elpinguino.com:1935/live/pinguinotv_360p/hasbahca.m3u8;http://2.bp.blogspot.com/-vW5-qquXL3g/VQGx0I4JRiI/AAAAAAAADlc/G-4BowOZs-s/s1600/ep.png;2/14/2016||
+0001;EL PINGÜINO TV;Movie Channels;CL;Spanish;http://streaming.elpinguino.com:1935/live/pinguinotv_360p/hasbahca.m3u8;http://2.bp.blogspot.com/-vW5-qquXL3g/VQGx0I4JRiI/AAAAAAAADlc/G-4BowOZs-s/s1600/ep.png;2/14/2016
