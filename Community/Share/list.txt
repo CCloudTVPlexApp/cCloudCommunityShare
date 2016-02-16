@@ -1,1 +1,0 @@
-0000;Viasat TV1000 Premium HD;Movie Channels;RU;Russian;http://141.101.133.73/stream/EOX8KXUA8Q/202.m3u8;/:/plugins/com.plexapp.plugins.ccloudtv/resources/icon-series.png?t=1438136725;2/16/2016
