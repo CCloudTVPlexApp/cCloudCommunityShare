@@ -1,1 +1,0 @@
-0;Discovery Home & Health (Full HD);Entertainment;US;Spanish;http://exabytetv.ddns.net/stream/exabytetvplus.m3u8?can=discoveryhh&cal=5&tk=auth9ejnr4fd;/:/plugins/com.plexapp.plugins.ccloudtv/resources/icon-series.png?t=1438136725;2/18/2016
