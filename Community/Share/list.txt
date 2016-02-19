@@ -1,0 +1,1 @@
+0;25.1 Noticias (GDL  Jalisco);News;MX;Spanish;http://74.63.97.188:1935/c7/videoc7/master.m3u8;/:/plugins/com.plexapp.plugins.ccloudtv/resources/icon-series.png?t=1438136725;2/18/2016
