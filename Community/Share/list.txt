@@ -1,0 +1,1 @@
+0;Real Madrid TV;Sports;ES;Spanish;http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on;/:/plugins/com.plexapp.plugins.ccloudtv/resources/icon-series.png?t=1438136725;2/18/2016
