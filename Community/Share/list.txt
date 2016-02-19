@@ -1,1 +1,0 @@
-0;6 ter HD;Entertainment;FR;French;http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/six_ter_hls_aes/six_ter_hls_aes_856.m3u8;/:/plugins/com.plexapp.plugins.ccloudtv/resources/icon-series.png?t=1438136725;2/19/2016
