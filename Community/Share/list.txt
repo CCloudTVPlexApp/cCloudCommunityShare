@@ -1,1 +1,0 @@
-0;Sky Movies-Premiere HD;Movie Channels;UK;English;http://cp.dmbshare.net:8000/live/cotton/cotton/2775.m3u8;/:/plugins/com.plexapp.plugins.ccloudtv/resources/icon-series.png?t=1438136725;2/26/2016
