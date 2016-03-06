@@ -1,1 +1,0 @@
-0;SPORT ? DIGI SPORT 1?;Sports;UK;English;http://62.210.162.88:80/live/digi122/122706032016/2054.m3u8;/:/plugins/com.plexapp.plugins.ccloudtv/resources/icon-series.png?t=1456327648;3/6/2016
