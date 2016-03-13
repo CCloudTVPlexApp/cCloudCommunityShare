@@ -1,1 +1,0 @@
-0;ESPN;Sports;US;English;http://80.80.160.168/live/6/live.m3u8;/:/plugins/com.plexapp.plugins.ccloudtv/resources/icon-series.png?t=1456699747;3/13/2016
