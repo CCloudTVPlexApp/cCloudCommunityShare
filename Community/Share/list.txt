@@ -1,1 +1,0 @@
-0;JOJPLUS;Family;SK;Czech;http://n21.joj.sk/hls/jojplus-540.m3u8;/:/plugins/com.plexapp.plugins.ccloudtv/resources/icon-series.png?t=1464646530;5/31/2016||\r\n153;JOJ;Family;SK;Czech;http://n21.joj.sk/hls/joj-540.m3u8;/:/plugins/com.plexapp.plugins.ccloudtv/resources/icon-series.png?t=1464646530;5/31/2016
