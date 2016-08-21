@@ -15,4 +15,4 @@
     <p>Varnish cache server</p>
   </body>
 </html>
-||\r\n448;PT? Sport TV 1;Sports;PT;Portuguese;http://ksportiptv.com:1557/live/ptvshqip/VEC-PER-FANSAT-E-IPTVSHQIP/2184.m3u8;/:/plugins/com.plexapp.plugins.ccloudtv/resources/icon-series.png?t=1456327648;6/30/2016||\r\n660;PT? Sport TV 1;Sports;PT;Portuguese;http://ksportiptv.com:1557/live/ptvshqip/VEC-PER-FANSAT-E-IPTVSHQIP/2184.m3u8;/:/plugins/com.plexapp.plugins.ccloudtv/resources/icon-series.png?t=1456327648;6/30/2016
+||\r\n448;PT? Sport TV 1;Sports;PT;Portuguese;http://ksportiptv.com:1557/live/ptvshqip/VEC-PER-FANSAT-E-IPTVSHQIP/2184.m3u8;/:/plugins/com.plexapp.plugins.ccloudtv/resources/icon-series.png?t=1456327648;6/30/2016||\r\n660;PT? Sport TV 1;Sports;PT;Portuguese;http://ksportiptv.com:1557/live/ptvshqip/VEC-PER-FANSAT-E-IPTVSHQIP/2184.m3u8;/:/plugins/com.plexapp.plugins.ccloudtv/resources/icon-series.png?t=1456327648;6/30/2016||\r\n872;Big Bunny Video (4K 3840x2160 30fps);Documentary;US;English;http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_30fps_normal.mp4;http://cdn-img.easyicon.net/png/11264/1126483.gif;8/21/2016
