@@ -1,0 +1,18 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <title>503 between bytes timeout</title>
+  </head>
+  <body>
+    <h1>Error 503 between bytes timeout</h1>
+    <p>between bytes timeout</p>
+    <h3>Guru Mediation:</h3>
+    <p>Details: cache-sjc3132-SJC 1476129025 2783648314</p>
+    <hr>
+    <p>Varnish cache server</p>
+  </body>
+</html>
+||\r\n457;Big Bunny Video (1920x1080 30fps);Adult;US;English;http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4;http://cdn-img.easyicon.net/png/11264/1126483.gif;10/10/2016
