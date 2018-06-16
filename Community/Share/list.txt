@@ -1,1 +1,1 @@
-0;Bloomberg;News;US;English;http://cdn3.videos.bloomberg.com/btv/us/master.m3u8;http://cdn-img.easyicon.net/png/11264/1126483.gif;6/16/2018
+0;Nasa TV;Documentary;US;English;https://www.youtube.com/watch?v=wwMDvPCGeE0;http://cdn-img.easyicon.net/png/11264/1126483.gif;6/16/2018
