@@ -1,1 +1,1 @@
-0;Sky TG24 (rtmp);News;AT;Akan;rtmp://cp49989.live.edgefcs.net:1935/live/streamRM1@2564;http://upload.wikimedia.org/wikipedia/en/9/91/SKY_TG24.png;6/25/2018
+0;Sky TG24 (rtmp);News;AZ;Akan;rtmp://cp49989.live.edgefcs.net:1935/live/streamRM1@2564;http://upload.wikimedia.org/wikipedia/en/9/91/SKY_TG24.png;6/25/2018
