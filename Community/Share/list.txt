@@ -1,1 +1,1 @@
-0;Bloomberg;News;US;English;http://cdn3.videos.bloomberg.com/btv/us/master.m3u8;http://cdn-img.easyicon.net/png/11264/1126483.gif;7/22/2018
+0;News18 India;News;IN;Hindi;https://www.youtube.com/watch?v=gFMaxP6cHh8;https://yt3.ggpht.com/-AKivlOOZbgM/AAAAAAAAAAI/AAAAAAAAAAA/wm-EP6wlh7k/s88-c-k-no-mo-rj-c0xffffff/photo.jpg;7/22/2018
