@@ -1,1 +1,1 @@
-0;NDTV 480p;News;IN;Hindi;http://ndtv.live.cdn.bitgravity.com/ndtv/live/ndtv247live512;http://i.imgur.com/r9HFgCS.jpg;7/31/2018
+0;NDTV 240p;News;IN;Hindi;http://bglive-a.bitgravity.com/ndtv/247hi/live/native;http://i.imgur.com/r9HFgCS.jpg;7/31/2018
