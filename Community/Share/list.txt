@@ -1,1 +1,1 @@
-0;NDTV 240p;News;IN;Akan;http://bglive-a.bitgravity.com/ndtv/247hi/live/native;http://i.imgur.com/r9HFgCS.jpg;8/1/2018
+0;NDTV 240p;News;IN;Hindi;http://ndtv.indostan.epac.to/ndtv/247lo/live/native;http://i.imgur.com/r9HFgCS.jpg;8/1/2018
