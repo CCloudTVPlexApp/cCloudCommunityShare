@@ -1,1 +1,1 @@
-0;RTP 1;Documentary;AF;Akan;http://ilovetv.pt:8000/BjtVfUnp6b/tPMYWC11pg/576;http://originaliptv.net/logotipos/rtp1.png;2/14/2019
+0;RTP 1;Adult;AF;Akan;http://ilovetv.pt:8000/BjtVfUnp6b/tPMYWC11pg/576;http://originaliptv.net/logotipos/rtp1.png;2/14/2019
