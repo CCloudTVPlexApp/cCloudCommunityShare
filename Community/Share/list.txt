@@ -1,1 +1,1 @@
-0;NDTV 480p;News;UK;Akan;http://ndtv.live.cdn.bitgravity.com/ndtv/live/ndtv247live512;http://i.imgur.com/r9HFgCS.jpg;5/19/2019
+0;NDTV 240p;News;UK;English;http://ndtv.indostan.epac.to/ndtv/247lo/live/native;http://i.imgur.com/r9HFgCS.jpg;5/19/2019
