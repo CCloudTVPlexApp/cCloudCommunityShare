@@ -1,1 +1,1 @@
-0;NDTV 24x7;News;IN;English;http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8;https://pbs.twimg.com/profile_images/575304317/logo_ndtv_news_400x400.png;10/20/2019
+0;Sky News;News;UK;English;https://www.youtube.com/watch?v=y60wDzZt8yg;https://yt3.ggpht.com/-uYnyeu0wFpQ/AAAAAAAAAAI/AAAAAAAAAAA/VU2Ct3J_ZQw/s88-c-k-no-mo-rj-c0xffffff/photo.jpg;10/20/2019
