@@ -1,1 +1,1 @@
-0;Big Buck Bunny 2008;Adult;US;English;http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4;https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.jpg;10/21/2019
+0;NDTV 24x7;News;IN;English;http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8;https://pbs.twimg.com/profile_images/575304317/logo_ndtv_news_400x400.png;10/21/2019
