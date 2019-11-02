@@ -1,1 +1,1 @@
-0;NDTV 24x7;News;IN;English;http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8;https://pbs.twimg.com/profile_images/575304317/logo_ndtv_news_400x400.png;11/2/2019
+0;Al Jazeera HD;News;US;English;https://www.youtube.com/watch?v=UgJtWREOXHA;https://yt3.ggpht.com/-8IFpTckNBOQ/AAAAAAAAAAI/AAAAAAAAAAA/D3as0FRtFfo/s88-c-k-no-mo-rj-c0xffffff/photo.jpg;11/2/2019
