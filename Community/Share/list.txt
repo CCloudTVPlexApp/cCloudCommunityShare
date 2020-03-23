@@ -1,0 +1,1 @@
+0;Australia Channel;News;AU;English;https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8;https://i.imgur.com/mdNV8tQ.jpg;3/23/2020
